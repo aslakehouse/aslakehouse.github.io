@@ -9,8 +9,8 @@ tags:
 
 ## Orientation and picking up our Airstream at Airstream Adventures NW
 
-![AirstreamPickup](https://photos.app.goo.gl/fgNtTcqzegyzixRKA)
+![AirstreamPickup](https://by3302files.storage.live.com/y4mJZW0Q_Bd3QpdSG70hbAkUjjvHSS2juQDMOmVwObxDGuwtTLNgrFROtXXT_TV0UqGHgauGtCcXNSS2wg45KswIZa7xxxSecxlguzsJljYlt1yeELnPV2lI7FEKYQSOjJ6UzqBr2KU18zZsFiojCpgNFkpQUVJATJ3Fa90_-OLfQOZpZnHBzR1OcDe0mtFtBIu?width=943&height=707&cropmode=none)
 
 ## Hooking up our Airstream for the first time
 
-![AirstreamHookup](https://1drv.ms/u/s!AuSai-zL-3uja8dm7ZHIpvAZ5m8?e=BPYWwx)
+![AirstreamHookup](https://by3302files.storage.live.com/y4maLaxzOzNnuowMDIVqGik-leOh3mev5Lj5Sk6m1Geu0aNoPdZNHuYobLKVw71Q3pBpZYgRdXis6SuMzGjh7_7q-DlWEmq7cP0MgZQLoCJLnc6OZDDlRirBg3nFIgmkrddMfzPmS98bMAKnfGEpA8yIa5tuyz3-kQTiN_BmQ4BuLfH1TzC2XAMoUMjJkT8MsLE?width=943&height=707&cropmode=none)
