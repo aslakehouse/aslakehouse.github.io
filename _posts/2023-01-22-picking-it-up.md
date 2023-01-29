@@ -13,4 +13,4 @@ tags:
 
 ## Hooking up our Airstream for the first time
 
-![AirstreamHookup](https://photos.app.goo.gl/LwcaAot2ESrZzEdPA)
+![AirstreamHookup](https://1drv.ms/u/s!AuSai-zL-3uja8dm7ZHIpvAZ5m8?e=BPYWwx)
