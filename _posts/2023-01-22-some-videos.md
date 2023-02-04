@@ -7,18 +7,12 @@ tags:
   - video
 ---
 
-## Videos of our Airstream (test needs some work)
+## Couple videos of our Airstream
 
-### Option1
+### Orientation and Walk Through
 
-![AirstreamMirror](https://youtube.com/shorts/Sxh8EUodnX4)
+{% include youtube.html id="e5JyE26JEPA" %}
 
-### Option2
-
-{% include video id="Sxh8EUodnX4" provider="youtube" %}
-
-### Option3
+### Rolling down the highway
 
 {% include youtube.html id="Sxh8EUodnX4" %}
-
-
