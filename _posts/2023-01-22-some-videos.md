@@ -9,5 +9,16 @@ tags:
 
 ## Videos of our Airstream (test needs some work)
 
-![AirstreamMirror](https://photos.google.com/album/AF1QipNhtbz6RIbzyLk3unxr4dDGkz64EnluTHVnZ8iQ/photo/AF1QipPwg9bnCc4SlZlFv8SwkGswCCQyM_K_YV5hj9iP)
+### Option1
+
+![AirstreamMirror](https://youtube.com/shorts/Sxh8EUodnX4)
+
+### Option2
+
+{% include video id="Sxh8EUodnX4" provider="youtube" %}
+
+### Option3
+
+{% include youtube.html id="Sxh8EUodnX4" %}
+
 
