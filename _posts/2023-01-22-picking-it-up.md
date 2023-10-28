@@ -7,6 +7,8 @@ tags:
   - pics
 ---
 
+![banner](https://raw.githubusercontent.com/aslakehouse/aslakehouse.github.io/main/assets/images/aslhbanner.jpg)
+
 ## Orientation and picking up our Airstream at Airstream Adventures NW
 
 ![AirstreamPickup](https://by3302files.storage.live.com/y4mJZW0Q_Bd3QpdSG70hbAkUjjvHSS2juQDMOmVwObxDGuwtTLNgrFROtXXT_TV0UqGHgauGtCcXNSS2wg45KswIZa7xxxSecxlguzsJljYlt1yeELnPV2lI7FEKYQSOjJ6UzqBr2KU18zZsFiojCpgNFkpQUVJATJ3Fa90_-OLfQOZpZnHBzR1OcDe0mtFtBIu?width=943&height=707&cropmode=none)

@@ -7,10 +7,7 @@ tags:
   - chat
 ---
 
-<img src="{{ '/assets/images/aslhbanner.jpg' | relative_url }}" />
-
-
-<img src="https://onedrive.live.com/embed?resid=A37BFBCBEC8B9AE4%21233&authkey=%21AMRrSsu-CQ7601U&width=1024&height=428" width="1024" height="428" />
+![banner](https://raw.githubusercontent.com/aslakehouse/aslakehouse.github.io/main/assets/images/aslhbanner.jpg)
 
 ## Welcome to our Airstream Lakehouse site which is a work in progress
 
@@ -18,6 +15,3 @@ tags:
 
 ### This is not our Airstream.  We have more solar than this one.  
 You can find this picture here [https://www.airstream.com/blog/power-101-how-solar-power-works-in-an-airstream/](https://www.airstream.com/blog/power-101-how-solar-power-works-in-an-airstream/)
-
-
-![banner](https://raw.githubusercontent.com/aslakehouse/aslakehouse.github.io/main/assets/images/aslhbanner.jpg)

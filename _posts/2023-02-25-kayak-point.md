@@ -7,6 +7,8 @@ tags:
   - video
 ---
 
+![banner](https://raw.githubusercontent.com/aslakehouse/aslakehouse.github.io/main/assets/images/aslhbanner.jpg)
+
 ## Leaving our Campsite at Kayak Point Regional County Park
 
 {% include youtube.html id="mMVK-WTIAt4" %}

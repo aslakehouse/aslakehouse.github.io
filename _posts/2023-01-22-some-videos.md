@@ -7,6 +7,8 @@ tags:
   - video
 ---
 
+![banner](https://raw.githubusercontent.com/aslakehouse/aslakehouse.github.io/main/assets/images/aslhbanner.jpg)
+
 ## Couple videos of our Airstream
 
 ### Orientation and Walk Through

@@ -7,6 +7,8 @@ tags:
   - chat
 ---
 
+![banner](https://raw.githubusercontent.com/aslakehouse/aslakehouse.github.io/main/assets/images/aslhbanner.jpg)
+
 ##  Pairing Voyager WiSight 2.0 Backup Camera
 
 ### Pair, Plug-in, Depart
