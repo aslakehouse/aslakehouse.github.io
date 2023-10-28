@@ -15,3 +15,5 @@ Will be winterizing the Airstream International 23FBT next weekend, but really l
 
 ![AirstreamLakehouseLogo](https://sjc04pap002files.storage.live.com/y4m0sZ3M-_0H12mnKVpiNpUAyxX1ZdcvPaX2PtwrgTko7dac4m2PuXnGI71Qslct8l5mDdqSwH_rYOBUpz6EQYcwbaklMIpc1ktz8Otm165oVQeAdv3D0ZmLBkImd4u83d3jLEO87dhglQMDBMUzxGxmx1wpLKiXZXN1An5Seef0Ws_NJR_BxRGX0J_GxbfE6swJUkSXBbYK6_OsroD1fKyjIth4pYRVdBZkj-E7WpqpoI?encodeFailures=1&width=716&height=716&cropmode=none)
 
+<img src="https://onedrive.live.com/embed?resid=A37BFBCBEC8B9AE4%21227&authkey=%21AHPhsA1zW8ZCLCU&width=1024&height=1024" width="716" height="716" />
+
