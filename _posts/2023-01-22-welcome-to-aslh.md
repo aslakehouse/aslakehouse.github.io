@@ -11,7 +11,7 @@ tags:
 
 ## Welcome to our Airstream Lakehouse site which is a work in progress
 
-![AirstreamByLake](https://by3302files.storage.live.com/y4m50nmAaTJvapFrDn4Jr9-BRi6FeFE_i_oJCNO169eriWmaQ5ZJVjJ0gh6LZJOhCz347XPQvSXzMbgV0UUbHD8QSlAsaVd4UP92GrLp8pQS7fB7XqmhwKPAHPXaRS7--NAWxnrdWRIBVFUcXhpWjZEuLekw9AHdTxljFhhAnp0XULafOMImyX562_hbBWoy3uw?width=1307&height=707&cropmode=none)
+![AirstreamByLake](/assets/images/postimages/AirstreamLakehouse.png)
 
 ### This is not our Airstream.  We have more solar than this one.  
 You can find this picture here [https://www.airstream.com/blog/power-101-how-solar-power-works-in-an-airstream/](https://www.airstream.com/blog/power-101-how-solar-power-works-in-an-airstream/)

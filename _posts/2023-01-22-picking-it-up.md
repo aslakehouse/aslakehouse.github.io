@@ -11,8 +11,8 @@ tags:
 
 ## Orientation and picking up our Airstream at Airstream Adventures NW
 
-![AirstreamPickup](assets/images/postimages/AirstreamPickup.jpg)
+![AirstreamPickup](/assets/images/postimages/AirstreamPickup.jpg)
 
 ## Hooking up our Airstream for the first time
 
-![AirstreamHookup](assets/images/postimages/AirstreamHookup.jpg)
+![AirstreamHookup](/assets/images/postimages/AirstreamHookup.jpg)
